@@ -1,0 +1,1 @@
+<form method="post" action="?r=login" class="card form"><input type="hidden" name="_csrf" value="<?=h(csrf_token())?>"><label>Email</label><input type="email" name="email" required placeholder="nama@contoh.local"><label>Password</label><input type="password" name="password" required placeholder="••••••••"><button class="btn primary">Masuk</button></form>

@@ -1,0 +1,1 @@
+<div class="grid"><section class="card"><h2>Ajukan Layanan</h2><p>Isi formulir dan unggah berkas.</p><a class="btn primary" href="?r=apply">Form Pengajuan</a></section><section class="card"><h2>Panel Petugas</h2><p>Masuk sebagai FO/Koordinator/Petugas/Pimpinan.</p><a class="btn dark" href="?r=login">Login</a></section></div>
